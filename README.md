@@ -175,6 +175,6 @@ Bearer your-jwt-token
 
 ## 🙌 Author
 
-Vijay
+Vijay Bagali
 
 ---
